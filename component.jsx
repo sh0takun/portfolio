@@ -20,7 +20,7 @@ export default function Component() {
           />
           <div className="flex items-center gap-6">
             <img
-              src="/placeholder.svg"
+              src="/placeholder.svg"    // Change to the actual image path
               alt="Shota Tonari"
               className="w-32 h-32 rounded-full object-cover"
               width={128}
@@ -59,8 +59,8 @@ export default function Component() {
               <h2 className="text-3xl font-bold tracking-tighter mb-4">Work Experience</h2>
               <div className="space-y-8">
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Software Engineer</h3>
-                  <p className="text-muted-foreground mb-1">Acme Inc. | 2019 - Present</p>
+                  <h3 className="text-xl font-bold mb-2">IT Consulting Coordinator</h3>
+                  <p className="text-muted-foreground mb-1">Mann Consulting | Present</p>
                   <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                     <li>Developed and maintained web applications using React, Node.js, and MongoDB.</li>
                     <li>Collaborated with cross-functional teams to design and implement new features.</li>
@@ -68,12 +68,21 @@ export default function Component() {
                   </ul>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Intern</h3>
-                  <p className="text-muted-foreground mb-1">Widgets Inc. | 2018 - 2019</p>
+                  <h3 className="text-xl font-bold mb-2">Residential Networking Technical Support</h3>
+                  <p className="text-muted-foreground mb-1">ResNet; University of California, Santa Cruz | 2023 - 2024</p>
                   <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                     <li>Assisted in the development and testing of web applications.</li>
                     <li>Gained experience in agile development methodologies and project management.</li>
                     <li>Participated in team meetings and presentations.</li>
+                  </ul>
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold mb-2">IT Support</h3>
+                  <p className="text-muted-foreground mb-1">ResNet; University of California, Santa Cruz | 2022 - 2023</p>
+                  <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                    <li>Provided technical support to users and administrators.</li>
+                    <li>Assisted in the installation and configuration of new IT systems.</li>
+                    <li>Maintained and monitored the IT infrastructure.</li>
                   </ul>
                 </div>
               </div>
