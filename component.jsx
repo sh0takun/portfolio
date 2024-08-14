@@ -92,12 +92,11 @@ export default function Component() {
               <div className="space-y-8">
                 <div>
                   <h3 className="text-xl font-bold mb-2">Bachelor in Network and Digital Technology</h3>
-                  <p className="text-muted-foreground mb-1">University of California, Santa Cruz | 202 - 2019</p>
-                  <p className="text-muted-foreground">Graduated with Honors</p>
+                  <p className="text-muted-foreground mb-1">University of California, Santa Cruz | 2020 - 2024</p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">High School Diploma</h3>
-                  <p className="text-muted-foreground mb-1">Somewhere High School | 2011 - 2015</p>
+                  <h3 className="text-xl font-bold mb-2">San Francisco Japanese High School</h3>
+                  <p className="text-muted-foreground mb-1">San Francisco Bay Area | 2009 - 2020</p>
                   <p className="text-muted-foreground">Graduated with Distinction</p>
                 </div>
               </div>
