@@ -12,7 +12,7 @@ export default function Component() {
         <div className="container flex flex-col md:flex-row items-center justify-between gap-8 text-primary-foreground">
           <img
             src="/placeholder.svg"
-            alt="Hero Background"
+            alt="Shota's Background Photo"
             className="absolute inset-0 w-full h-full object-cover opacity-30"
             width={1920}
             height={1080}
