@@ -1,8 +1,10 @@
+'use client'
+
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { BriefcaseIcon, GraduationCapIcon, MailIcon, PhoneIcon, LinkedinIcon, GithubIcon, CodeIcon, WrenchIcon, GlobeIcon } from "lucide-react"
 
-export default function Component() {
+export function PersonalWebsite() {
   return (
     <div className="flex flex-col min-h-[100dvh]">
       <header className="px-4 lg:px-6 h-14 flex items-center">
