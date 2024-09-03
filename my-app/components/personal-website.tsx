@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { BriefcaseIcon, GraduationCapIcon, MailIcon, PhoneIcon, LinkedinIcon, GithubIcon, CodeIcon, WrenchIcon, GlobeIcon } from "lucide-react"
+import Link from 'next/link'; // Add this line
 
 export function PersonalWebsite() {
   return (
