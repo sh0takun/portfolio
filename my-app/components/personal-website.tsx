@@ -219,7 +219,7 @@ export function PersonalWebsite() {
                 <CardContent>
                   <ul className="list-disc pl-4 space-y-2">
                     <li>Co-piloted the development of HealthPredict Japan, an innovative digital health platform designed for the Japanese market; leveraged sophisticated data analytics techniques to create predictive models that forecast potential health risks and provide personalized recommendations.</li>
-                    <li>Designed a scalable "Hub and Spoke" architecture connecting core services and ecosystem partners to maximize reach and impact.</li>
+                    <li>Designed a scalable &quot;Hub and Spoke&quot; architecture connecting core services and ecosystem partners to maximize reach and impact.</li>
                     <li>Helped the founder integrate personalized health insights into the app to boost user engagement and promote continuous health management.</li>
                   </ul>
                 </CardContent>
