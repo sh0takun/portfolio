@@ -2,6 +2,7 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -42,6 +43,7 @@ export default function RootLayout({
           </header>
           <main className="flex-1 flex items-center justify-center">
             {children}
+            <Analytics />
           </main>
           <footer className="flex justify-center py-6 w-full shrink-0 items-center px-4 md:px-6 border-t">
             <p className="text-xs text-muted-foreground">© 2024 Shota Tonari. All rights reserved.</p>
