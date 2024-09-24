@@ -20,7 +20,7 @@ export default function Home() {
               Shota Tonari
             </h1>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-              IT / Network / Security / DevOps / Cloud / Automation
+              IT / Network / Security / Cloud / Automation
             </p>
             <div className="flex flex-col items-center space-y-2 mx-auto">
               <div className="flex items-center space-x-2">
