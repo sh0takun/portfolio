@@ -16,7 +16,7 @@ export default function Skills() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p>C/C++, Python, SQL, HTML/CSS, MATLAB</p>
+                <p>C/C++, Python, HTML/CSS, MATLAB</p>
               </CardContent>
             </Card>
             <Card>
@@ -27,7 +27,7 @@ export default function Skills() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Visual Studio, Git, Gitlab, Bash</p>
+                <p>Git, Gitlab, Bash</p>
               </CardContent>
             </Card>
             <Card>
@@ -49,7 +49,7 @@ export default function Skills() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p>ServiceNow, Zendesk, Jira, Jamf, Intune</p>
+                <p>ServiceNow, Zendesk, Jamf, Intune</p>
               </CardContent>
             </Card>
           </div>
